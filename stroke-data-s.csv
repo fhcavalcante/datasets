@@ -1,4 +1,4 @@
-age;hypertension;heart_disease;avg_glucose_level;bmi;Outcome
+age;ht;hd;glucose;bmi;outcome
 67;0;1;228.69;36.6;1
 61;0;0;202.21;0;1
 80;0;1;105.92;32.5;1
